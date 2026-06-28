@@ -1,0 +1,1 @@
+{"scripts":{"dev":"next dev","build":"next build","start":"next start"},"dependencies":{"@openai/openai":"^4.0.0","next":"latest","react":"latest","react-dom":"latest","html2canvas":"latest","jspdf":"latest"},"devDependencies":{}}
